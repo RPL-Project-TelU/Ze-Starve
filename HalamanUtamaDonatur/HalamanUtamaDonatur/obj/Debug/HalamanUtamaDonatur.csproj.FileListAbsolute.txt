@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.HalamanUtamaDonatur.resources
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.Properties.Resources.resources
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\HalamanUtamaDonatur\HalamanUtamaDonatur\obj\Debug\HalamanUtamaDonatur.csproj.CoreCompileInputs.cache
